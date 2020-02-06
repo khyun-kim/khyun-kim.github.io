@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[khyun-kim's dev blog]]></title><description><![CDATA[초보 개발자의 개발 블로그입니다. 공부한 내용을 기록하며 생각을 정리하기 위해서 제작되었습니다.]]></description><link>https://khyun-kim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 04 Feb 2020 09:19:28 GMT</lastBuildDate><item><title><![CDATA[PYTHON을 이용한 웹 어플리케이션]]></title><description><![CDATA[Python에서 back-end 분야에서 주로 사용되는 프레임워크로는 Django가 있으나 크기가 크고 구조가 복잡하기 때문에 초보자가 접근하지 용이하지 않다.  그래서 본 포스트에서는 Flask를 이용하며 웹 서버를 구성할 것이다. REST HTTP…]]></description><link>https://khyun-kim.github.io/2020-02-03-python-web-application/</link><guid isPermaLink="false">https://khyun-kim.github.io/2020-02-03-python-web-application/</guid><pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Python에서 back-end 분야에서 주로 사용되는 프레임워크로는 Django가 있으나 크기가 크고 구조가 복잡하기 때문에 초보자가 접근하지 용이하지 않다. &lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[코드 부스러기 보관소]]></title><description><![CDATA[초보 개발자의 블로그입니다. 공부한 내용을 기록하고, 정리하기 위해서 작성되었습니다. 혹여 잘못된 정보가 있다면 메일을 코멘트를 달아주세요.]]></description><link>https://khyun-kim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 06 Feb 2020 06:41:52 GMT</lastBuildDate><item><title><![CDATA[Node.js를 활용한 웹 어플리케이션]]></title><description><![CDATA[Nodejs 라이브러리를 활용
+DB는 MYSQL 활용
+Nodejs 중에서 express를 활용하여 서버제작
+ejs 엔진을 활용 Node.js에서 es6 문법을 적용하여 모듈을 import 하기 위해서는 babel이 필요하다 npm 은 WARN…]]></description><link>https://khyun-kim.github.io/2020-02-05-nodejs-web-application/</link><guid isPermaLink="false">https://khyun-kim.github.io/2020-02-05-nodejs-web-application/</guid><pubDate>Wed, 05 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Nodejs 라이브러리를 활용
+DB는 MYSQL 활용
+Nodejs 중에서 express를 활용하여 서버제작
+ejs 엔진을 활용&lt;/p&gt;
+&lt;p&gt;Node.js에서 es6 문법을 적용하여 모듈을 import 하기 위해서는 babel이 필요하다&lt;/p&gt;
+&lt;p&gt;npm 은 WARN도 자주 뜨고 불안정함 좀더 정확히 깔끔하게 빠르게 설치하면 좋다.
+그러기위해서 yarn을 사용한다.
+npm install —global yarn&lt;/p&gt;
+&lt;p&gt;yarn은 파워쉘로 사용이 안되더라&lt;/p&gt;</content:encoded></item><item><title><![CDATA[PYTHON을 이용한 웹 어플리케이션]]></title><description><![CDATA[Python에서 back-end 분야에서 주로 사용되는 프레임워크로는 Django가 있으나 크기가 크고 구조가 복잡하기 때문에 초보자가 접근하지 용이하지 않다.  그래서 본 포스트에서는 Flask를 이용하며 웹 서버를 구성할 것이다. REST HTTP…]]></description><link>https://khyun-kim.github.io/2020-02-03-python-web-application/</link><guid isPermaLink="false">https://khyun-kim.github.io/2020-02-03-python-web-application/</guid><pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Python에서 back-end 분야에서 주로 사용되는 프레임워크로는 Django가 있으나 크기가 크고 구조가 복잡하기 때문에 초보자가 접근하지 용이하지 않다. &lt;/p&gt;
 &lt;p&gt;그래서 본 포스트에서는 Flask를 이용하며 웹 서버를 구성할 것이다.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;REST&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
