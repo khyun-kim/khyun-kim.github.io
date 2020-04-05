@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[코드 부스러기 보관소]]></title><description><![CDATA[초보 개발자의 블로그입니다. 공부한 내용을 기록하고, 정리하기 위해서 작성되었습니다. 혹여 잘못된 정보가 있다면 메일이나 코멘트를 달아주세요.]]></description><link>https://khyun-kim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 05 Apr 2020 09:06:43 GMT</lastBuildDate><item><title><![CDATA[TodoList Web Application]]></title><description><![CDATA[Github 저장소 링크 진행 기간 : 2020년 3월 23일 ~ 2020년 4월 4일 🚀 ReactJS, Express, Sqlite3를 이용한 Todolist 웹 페이지 Front-end 쪽으로는 ReactJS…]]></description><link>https://khyun-kim.github.io/2020-04-01-todoList-express-react-sqlite3/</link><guid isPermaLink="false">https://khyun-kim.github.io/2020-04-01-todoList-express-react-sqlite3/</guid><pubDate>Mon, 23 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[코드 부스러기 보관소]]></title><description><![CDATA[초보 개발자의 블로그입니다. 공부한 내용을 기록하고, 정리하기 위해서 작성되었습니다. 혹여 잘못된 정보가 있다면 메일이나 코멘트를 달아주세요.]]></description><link>https://khyun-kim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 05 Apr 2020 09:11:47 GMT</lastBuildDate><item><title><![CDATA[TodoList Web Application]]></title><description><![CDATA[Github 저장소 링크 진행 기간 : 2020년 3월 23일 ~ 2020년 4월 4일 🚀 ReactJS, Express, Sqlite3를 이용한 Todolist 웹 페이지 Front-end 쪽으로는 ReactJS…]]></description><link>https://khyun-kim.github.io/2020-04-01-todoList-express-react-sqlite3/</link><guid isPermaLink="false">https://khyun-kim.github.io/2020-04-01-todoList-express-react-sqlite3/</guid><pubDate>Mon, 23 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
     &gt;
@@ -326,9 +326,17 @@ db&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&
 &lt;ul&gt;
 &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; Text Codeblock 내부의 문자에 잘못된 배경색이 부여되는 문제.&lt;/li&gt;
 &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; 너무 지저분한 jsx 코드 정리 필요.&lt;/li&gt;
-&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; disabled&gt; 사이트 헤더가 페이지를 처음 로딩할때 심각하게 깨져서 보이는 문제, Material-UI를 무리하게 적용시킨 것은 아닐까?&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; checked disabled&gt; 사이트 헤더가 페이지를 처음 로딩할때 심각하게 깨져서 보이는 문제, Material-UI를 무리하게 적용시킨 것은 아닐까? ==&gt; 다른 것으로 대체 완료&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Change LOG&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;2020년 4월 5일&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Header 교체 완료 및 스크롤 이벤트 추가&lt;/li&gt;
+&lt;li&gt;about.jsx, layout.jsx 와 관련된 css 파일 styled-components로 교체&lt;/li&gt;
+&lt;li&gt;global.css styled-components로 교체&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;h3&gt;2020년 3월 18일&lt;/h3&gt;
 &lt;ul&gt;
